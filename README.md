@@ -13,6 +13,7 @@
   <li>Sass</li>
   <li>JavaScript</li>
   <li>React</li>
+  <li>NextJS</li>
   <li>Typescript</li>
 </ul>
 
