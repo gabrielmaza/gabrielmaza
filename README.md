@@ -1,5 +1,5 @@
 <h1 style="background: linear-gradient(135deg, #8E2DE2, #4A00E0); padding: 20px; color: white; text-align: center;">
-  <span style="font-size: 40px;">🚀</span> Industrial Designer & Frontend Developer
+  <span style="font-size: 40px;">🚀</span> Remote Frontend & UI Developer 
 </h1>
 
 <p>
