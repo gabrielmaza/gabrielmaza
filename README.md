@@ -8,13 +8,27 @@
 
 <h2>Skills</h2>
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Sass</li>
   <li>JavaScript</li>
-  <li>React</li>
-  <li>NextJS</li>
-  <li>Typescript</li>
+<li>TypeScript</li>
+<li>Node.js</li>
+<li>React.js</li>
+<li>Next.js</li>
+<li>SQL / Mongo DB</li>
+<li>Express.js</li>
+<li>React Hook Forms</li>
+<li>Redux / Zustand</li>
+<li>Jest / React Testing Library</li>
+<li>Rest API</li>
+<li>Git</li>
+<li>HTML</li>
+<li>CSS / SCSS / SASS</li>
+<li>Bootstrap / Ant</li>
+<li>Tailwind</li>
+<li>MaterialUI</li>
+<li>Scrum</li>
+<li>Agile Methodologies</li> 
+<li>UX/UI</li>
+<li>Responsive design</li>
 </ul>
 
 <p>
