@@ -25,6 +25,7 @@
 <li>Bootstrap / Ant</li>
 <li>Tailwind</li>
 <li>MaterialUI</li>
+<li>ESLint / Biome</li>
 <li>Scrum</li>
 <li>Agile Methodologies</li> 
 <li>UX/UI</li>
