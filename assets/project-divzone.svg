@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="240" viewBox="0 0 620 240" fill="none">
+  <defs>
+    <radialGradient id="g" cx="1" cy="0" r="1"><stop offset="0" stop-color="#BD93F9" stop-opacity="0.28"/><stop offset="1" stop-color="#BD93F9" stop-opacity="0"/></radialGradient>
+    <style>.sans{font-family:'Inter','Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif}
+    .shine{animation:s 6s ease-in-out infinite} @keyframes s{0%,100%{opacity:.6}50%{opacity:1}}</style>
+  </defs>
+  <g class="sans">
+    <rect x="1" y="1" width="618" height="238" rx="22" fill="#0F0F1C"/>
+    <rect class="shine" x="1" y="1" width="618" height="238" rx="22" fill="url(#g)"/>
+    <rect x="1" y="1" width="618" height="238" rx="22" stroke="#FFFFFF" stroke-opacity="0.1"/>
+    <rect x="32" y="34" width="10" height="34" rx="5" fill="#BD93F9"/>
+    <text x="56" y="60" font-size="28" font-weight="800" fill="#FFFFFF">DivZone AI</text>
+    <text x="588" y="58" text-anchor="end" font-size="22" fill="#BD93F9">↗</text>
+    <text x="56" y="86" font-size="14" font-weight="600" fill="#BD93F9">Built solo · own product</text>
+    <text x="32" y="122" font-size="15" fill="#C4C4D8">AI website generator: prompt → live site.</text>
+    <text x="32" y="144" font-size="15" fill="#C4C4D8">Multi-model pipeline (6 models, 4 providers),</text>
+    <text x="32" y="166" font-size="15" fill="#C4C4D8">auto deploy + domain/DNS. 300+ users.</text>
+    <rect x="32" y="186" width="80" height="28" rx="14" fill="#BD93F9" fill-opacity="0.12" stroke="#BD93F9" stroke-opacity="0.4"/><text x="72" y="205" text-anchor="middle" font-size="13" font-weight="600" fill="#BD93F9">NestJS</text><rect x="119.6" y="186" width="88" height="28" rx="14" fill="#BD93F9" fill-opacity="0.12" stroke="#BD93F9" stroke-opacity="0.4"/><text x="164" y="205" text-anchor="middle" font-size="13" font-weight="600" fill="#BD93F9">Next.js</text><rect x="215.79999999999998" y="186" width="114" height="28" rx="14" fill="#BD93F9" fill-opacity="0.12" stroke="#BD93F9" stroke-opacity="0.4"/><text x="273" y="205" text-anchor="middle" font-size="13" font-weight="600" fill="#BD93F9">PostgreSQL</text><rect x="337.79999999999995" y="186" width="80" height="28" rx="14" fill="#BD93F9" fill-opacity="0.12" stroke="#BD93F9" stroke-opacity="0.4"/><text x="378" y="205" text-anchor="middle" font-size="13" font-weight="600" fill="#BD93F9">Prisma</text>
+  </g>
+</svg>

@@ -1,37 +1,80 @@
-<h1 style="background: linear-gradient(135deg, #8E2DE2, #4A00E0); padding: 20px; color: white; text-align: center;">
-  <span style="font-size: 40px;">🚀</span> Remote Frontend & UI Developer 
-</h1>
+<div align="center">
 
-<p>
-  Hello there! 👋 I'm an Industrial Designer and Frontend Developer passionate about creating futuristic and cutting-edge digital experiences. I combine my design expertise with my coding skills to bring innovative ideas to life.
+<img src="./assets/header.svg" alt="Gabriel Maza: Senior Frontend Engineer · React · Next.js · TypeScript · AI-native development" width="100%"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/gabriel-maza/"><img src="https://img.shields.io/badge/LinkedIn-0A0A14?style=for-the-badge&logo=linkedin&logoColor=5EE7FF" alt="LinkedIn"/></a>
+<a href="https://www.behance.net/gabrielmaza"><img src="https://img.shields.io/badge/Behance-0A0A14?style=for-the-badge&logo=behance&logoColor=C9B6FF" alt="Behance"/></a>
+<a href="https://div.zone"><img src="https://img.shields.io/badge/div.zone-0A0A14?style=for-the-badge&logo=googlechrome&logoColor=BD93F9" alt="div.zone"/></a>
+<a href="https://x.com/DevGabrl"><img src="https://img.shields.io/badge/@DevGabrl-0A0A14?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/></a>
+<a href="mailto:gabrielmaza88@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A14?style=for-the-badge&logo=gmail&logoColor=FF79C6" alt="Email"/></a>
+
+</div>
+
+<br/>
+
+### `> about.md`
+
+I'm a **Senior Frontend Engineer** with **10+ years** building fast, accessible, user-focused web apps, and a background in **Industrial Design** that shapes how I think about interfaces.
+
+- 🏟️ At **Globant**, I build features for high-traffic products like **NFL.com**, **VIX / Univision** and **Red Sea Global**, working daily in English with US-based teams.
+- ⚡ I care about **Core Web Vitals**, **accessibility (WCAG)** and scalable **component architecture**.
+- 🤖 I'm **AI-native**: I build with Claude Code, Cursor and Cline, and I ship AI products. I built [**DivZone AI**](https://div.zone) solo, end to end.
+- 🏆 Award-winning hackathon participant (2013–2016).
+
+<br/>
+
+<img src="./assets/impact.svg" alt="10+ years · 95M monthly visits on NFL.com · +50% MAU at EDET · 300+ DivZone users" width="100%"/>
+
+<br/>
+
+### `> featured_work/`
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://div.zone"><img src="./assets/project-divzone.svg" alt="DivZone AI" width="100%"/></a></td>
+    <td width="50%"><a href="https://www.nfl.com"><img src="./assets/project-nfl.svg" alt="NFL.com" width="100%"/></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://vix.com"><img src="./assets/project-vix.svg" alt="VIX · Univision" width="100%"/></a></td>
+    <td width="50%"><a href="https://www.redseaglobal.com"><img src="./assets/project-redsea.svg" alt="Red Sea Global" width="100%"/></a></td>
+  </tr>
+</table>
+
+<br/>
+
+### `> stack/`
+
+<p align="center">
+  <b>Frontend</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,sass,redux,materialui,html,css&perline=10" alt="Frontend stack"/>
 </p>
 
-<h2>Skills</h2>
-<ul>
-  <li>JavaScript</li>
-<li>TypeScript</li>
-<li>Node.js</li>
-<li>React.js</li>
-<li>Next.js</li>
-<li>SQL / Mongo DB</li>
-<li>Express.js</li>
-<li>React Hook Forms</li>
-<li>Redux / Zustand</li>
-<li>Jest / React Testing Library</li>
-<li>Rest API</li>
-<li>Git</li>
-<li>HTML</li>
-<li>CSS / SCSS / SASS</li>
-<li>Bootstrap / Ant</li>
-<li>Tailwind</li>
-<li>MaterialUI</li>
-<li>ESLint / Biome</li>
-<li>Scrum</li>
-<li>Agile Methodologies</li> 
-<li>UX/UI</li>
-<li>Responsive design</li>
-</ul>
-
-<p>
-  Let's collaborate and build amazing user interfaces together! Feel free to explore my GitHub repositories to see some of my exciting projects and prototypes. Connect with me to share ideas and enhance the fusion of design and technology.
+<p align="center">
+  <b>Backend &amp; Data</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma,mongodb,mysql&perline=10" alt="Backend stack"/>
 </p>
+
+<p align="center">
+  <b>Testing, DevOps &amp; Design</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=jest,vitest,githubactions,vercel,netlify,cloudflare,git,figma&perline=10" alt="Tooling"/>
+</p>
+
+<p align="center">
+  <b>AI workflow</b><br/><br/>
+  <img src="https://img.shields.io/badge/Claude_Code-0A0A14?style=flat-square&logo=anthropic&logoColor=D97757" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Cursor-0A0A14?style=flat-square&logo=cursor&logoColor=FFFFFF" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Cline-0A0A14?style=flat-square&logo=visualstudiocode&logoColor=5EE7FF" alt="Cline"/>
+  <img src="https://img.shields.io/badge/Copilot-0A0A14?style=flat-square&logo=githubcopilot&logoColor=FFFFFF" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/OpenAI_·_Claude_·_Gemini_APIs-0A0A14?style=flat-square&logo=openai&logoColor=C9B6FF" alt="LLM APIs"/>
+  <img src="https://img.shields.io/badge/n8n-0A0A14?style=flat-square&logo=n8n&logoColor=FF79C6" alt="n8n"/>
+</p>
+
+<br/>
+
+### `> contact`
+
+Let's build fast, beautiful and accessible products together. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/gabriel-maza/) or by [email](mailto:gabrielmaza88@gmail.com). 🇦🇷 Based in Tucumán, Argentina · Spanish (native) · English (C1)
+
+<img src="./assets/footer.svg" alt="" width="100%"/>
