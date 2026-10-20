@@ -25,7 +25,7 @@ I'm a **Senior Frontend Engineer** with **10+ years** building fast, accessible,
 
 <br/>
 
-<img src="./assets/impact.svg" alt="10+ years · 95M monthly visits on NFL.com · +50% MAU at EDET · 300+ DivZone users" width="100%"/>
+<img src="./assets/impact.svg" alt="10+ years · 95M monthly visits on NFL.com · +50% MAU at EDET · 500+ DivZone users" width="100%"/>
 
 <br/>
 
