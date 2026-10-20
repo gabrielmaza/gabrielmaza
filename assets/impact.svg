@@ -42,7 +42,7 @@
     </g>
     <g class="card c4">
       <rect x="976" y="1" width="302" height="186" rx="22" fill="#0F0F1C" stroke="#FFFFFF" stroke-opacity="0.1"/>
-      <text x="1007" y="86" font-size="56" font-weight="800" fill="url(#num)" letter-spacing="-1">300+</text>
+      <text x="1007" y="86" font-size="56" font-weight="800" fill="url(#num)" letter-spacing="-1">500+</text>
       <text x="1007" y="124" font-size="17" font-weight="600" fill="#FFFFFF">users on DivZone AI</text>
       <text x="1007" y="150" font-size="14" fill="#9A9AB5">Built solo, prompt → live site</text>
       <rect class="grow" x="1007" y="166" width="120" height="4" rx="2" fill="url(#bar)"/>
